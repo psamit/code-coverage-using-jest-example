@@ -2,16 +2,7 @@
   "name": "code-coverage-using-jest-example",
   "version": "1.0.0",
   "description": "Code coverage using jest",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest",
-    "test:coverage": "jest --config jest.config.json --coverage",
-    "test:watch": "jest --watch"
-  },
+  "scripts": {},
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/jest": "^27.4.0",
-    "jest": "^27.5.1"
-  }
+  "license": "ISC"
 }
